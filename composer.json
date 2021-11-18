@@ -13,6 +13,6 @@
     },
     "require": {
         "composer-plugin-api": "^2.0",
-        "barberry/interfaces": "^2.0"
+        "barberry/interfaces": "dev-master"
     }
 }
